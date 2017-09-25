@@ -6,11 +6,4 @@ Adam D. Tak
 Software Developer
 -------------
 
-*Italic*
-
-**Bold**
-
-- List item 1
-- List item 2
-
-  Some code
+A site in progress to display my professional work, as well as my journey as a fledgling Software Developer.
