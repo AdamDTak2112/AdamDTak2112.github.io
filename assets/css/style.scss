@@ -4,3 +4,13 @@
 @import "{{ site.theme }}";
 
 #header nav li.goof { float: right; margin-right: 0px; }
+
+.footer{
+  display: flex;
+}
+
+.footer footer{
+  flex-flow: row;
+  justify-content: space-between;
+  margin: 0 auto;
+}
