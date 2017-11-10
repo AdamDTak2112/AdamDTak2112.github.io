@@ -3,7 +3,11 @@
 
 @import "{{ site.theme }}";
 
-#header nav li.goof { float: right; margin-right: 0px; }
+#header nav li.goof {margin-right: 0px; }
+
+#nav-links{
+  float: right;
+}
 
 .footer{
   display: flex;
