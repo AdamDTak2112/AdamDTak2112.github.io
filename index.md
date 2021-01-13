@@ -7,4 +7,4 @@
 
 # Hi, I'm Adam!
 
-I'm a computer science student at Utah State University who is an aspiring software developer. [Read more about my life...](/about)
+I am a Software Developer who specializes in Backend Web Development. Welcome to my website! [Read more about my life...](/about)
