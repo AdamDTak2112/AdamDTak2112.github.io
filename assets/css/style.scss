@@ -1,6 +1,6 @@
----
----
+--- --- @import "{{ site.theme }}";
 
-@import "{{ site.theme }}";
-
-#header nav li.goof { float: right; margin-right: 0px; }
+#header nav li.goof {
+    float: right;
+    margin-right: 0px;
+}

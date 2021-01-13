@@ -7,11 +7,10 @@
 
 # Hi, I'm Adam!
 
-I'm a computer science student at Utah State University who is an aspiring software developer. [Read more about my life...](/about)
 
+<div>
+    I am a Software Developer who specializes in Backend Web Development. Welcome to my website!
+</div>
 
-
-
-
-*   [email](mailto:adam.tak2112@gmail.com)
-*   [github.com/AdamDTak2112](https://github.com/AdamDTak2112)
+## Table of Contents
+ 1. [Read more about my life...](/about)
