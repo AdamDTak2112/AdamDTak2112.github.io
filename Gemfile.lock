@@ -8,7 +8,6 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
-    chronic (0.10.2)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -19,7 +18,7 @@ GEM
     execjs (2.7.0)
     faraday (0.13.1)
       multipart-post (>= 1.2, < 3)
-    ffi (1.9.18)
+    ffi (1.14.2)
     forwardable-extended (2.6.0)
     gemoji (3.0.0)
     github-pages (161)
@@ -174,8 +173,6 @@ GEM
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9.7)
     mercenary (0.3.6)
-    midnight (0.0.1.pre)
-      chronic (= 0.10.2)
     mini_portile2 (2.3.0)
     minima (2.1.1)
       jekyll (~> 3.3)
@@ -216,7 +213,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  midnight
 
 BUNDLED WITH
    1.16.0.pre.2
