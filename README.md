@@ -1,6 +1,6 @@
 # AdamDTak2112.github.io
 
-Adam D. Tak
+Adam Tak
 =============
 
 Software Developer
