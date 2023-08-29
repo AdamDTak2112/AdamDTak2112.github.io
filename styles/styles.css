@@ -1,0 +1,14 @@
+.container {
+    text-align: center;
+    margin-top: 33%
+}
+
+#hello {
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+
+#salutation {
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
