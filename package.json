@@ -1,4 +1,8 @@
 {
+
+"scripts": {
+    "dev": "next dev"
+},
     
 "dependencies": {
     
