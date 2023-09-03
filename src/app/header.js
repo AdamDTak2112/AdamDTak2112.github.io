@@ -1,16 +1,12 @@
-import Row from 'react-bootstrap/Row';
-import Col from 'react-boostrap/Col';
-import Container from 'react-boostrap/Container';
+import Container from 'react-bootstrap/Container';
+import Navbar from 'react-bootstrap/Navbar';
 
 export default function Header(){
     return (
-        <div className='container-fluid'>
-        <Container fluid>
-            <Row>
-                <Col></Col>
-                <Col xs lg='6'></Col>
-            </Row>
-        </Container>
-        </div>
+        <Navbar expand="lg">
+            <Container>
+                <Navbar.Brand href="#home">Tak Software</Navbar.Brand>
+            </Container>
+        </Navbar>
     )
 }
