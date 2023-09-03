@@ -11,8 +11,8 @@ export default function HomePage() {
                     <h1 id="hello">Hi, I'm Adam.</h1>
                     <Image 
                         src={imageSource}
-                        width={500}
-                        height={500}
+                        width={250}
+                        height={250}
                         alt="Picture of Adam Tak, Software Developer"
                         />
                     <h2>I'm a Software Engineer who specializes in Quality Assurance and Automated Testing.</h2>
