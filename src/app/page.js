@@ -13,7 +13,7 @@ export default function HomePage() {
                         src={imageSource}
                         width={500}
                         height={500}
-                        alt="The man himself"
+                        alt="Picture of Adam Tak, Software Developer"
                         />
                     <h2>I'm a Software Engineer who specializes in Quality Assurance and Automated Testing.</h2>
                 </div>
