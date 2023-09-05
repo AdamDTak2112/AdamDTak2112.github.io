@@ -4,6 +4,10 @@ body {
   background-color: bisque;
 }
 
+#brand {
+  font-weight: 400px;
+}
+
 .container {
   display: flex;
   flex-direction: column;
