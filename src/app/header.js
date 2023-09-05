@@ -2,12 +2,14 @@
 import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
+import './header.module.css';
 
 
 export default function Header(){
     return (
         <Navbar expand="lg">
-            <Container fluid>
+            <Container id='nav-container' fluid>
+                <Navbar.Brand id='brand' href='/'>Tak Software</Navbar.Brand>
                 <Nav>
                     <Nav.Item>
                         <Nav.Link href='/'>Home</Nav.Link>
