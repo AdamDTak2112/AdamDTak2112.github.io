@@ -1,16 +1,14 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
 body {
   background-color: bisque;
 }
 
-.container {
-  display: flex;
-  flex-direction: column;
-  align-items: center; 
-  height: 725px;
-  border: 5px solid;
-  margin-top: 25px;
-  justify-content: center;
+#brand {
+  font-weight: 400px;
 }
+
+
 
 #hello {
   padding-bottom: 25px;

@@ -8,8 +8,8 @@
   display: flex;
   flex-direction: column;
   align-items: center; 
-  height: 725px;
-  border: 5px solid;
+  height: 700px;
+  border: 25px solid;
   margin-top: 25px;
   justify-content: center;
 }
