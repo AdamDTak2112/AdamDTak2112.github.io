@@ -8,7 +8,7 @@ import './header.module.css';
 export default function Header(){
     return (
         <Navbar expand="lg">
-            <Container id='nav-container' fluid>
+            <Container id='nav-container'>
                 <Navbar.Brand id='brand' href='/'>Tak Software</Navbar.Brand>
                 <Nav>
                     <Nav.Item>
