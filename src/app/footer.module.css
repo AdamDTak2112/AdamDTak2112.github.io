@@ -6,10 +6,10 @@
 
 .footerContainer {
     background-color: tan;
-    height:200px;
-   min-width: 900px;
-    border: 25px solid black;
+    height:15vh;
+   min-width: 100 vw;
+    border: 5px solid black;
     display: flex;
-    margin-top: auto;
+    margin-top: -10px;
     
 }

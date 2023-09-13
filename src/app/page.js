@@ -22,7 +22,7 @@ export default function HomePage() {
                         height={250}
                         alt="Picture of Adam Tak, Software Developer"
                         />
-                    <h2>I'm a Software Engineer who specializes in Quality Assurance and Automated Testing.</h2>
+                    <h2 className={styles.whoAmI}>I'm a Software Engineer who specializes in Quality Assurance and Automated Testing of Web Applications.</h2>
                 </div>
             </div>
         </div>

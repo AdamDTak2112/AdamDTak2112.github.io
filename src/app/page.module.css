@@ -14,10 +14,13 @@
   justify-content: center;
 }
 
+.whoAmI {
+  padding-top: 25px;
+}
+
 #hello {
   padding-bottom: 25px;
   font-weight: bold;
-  border: 5px solid black
 }
 
 #salutation {
