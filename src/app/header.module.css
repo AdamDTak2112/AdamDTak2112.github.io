@@ -1,5 +1,7 @@
 
-#nav-container {
+#navContainer {
     margin-left: 5rem;
     margin-right: 5rem;
+    display: flex;
+    justify-content: space-between;
 }

@@ -1,4 +1,4 @@
-import './page.module.css';
+import styles from './page.module.css';
 import Image from 'next/image';
 import { Montserrat } from 'next/font/google';
 
@@ -13,9 +13,9 @@ export default function HomePage() {
 
     return (
         <div className={montserrat.className} id="app">
-            <div className="container">
-                <div id="salutation">
-                    <h1 id="hello">Hi, I'm Adam.</h1>
+            <div className={styles.container}>
+                <div id={styles.salutation}>
+                    <h1 id={styles.hello}>Hi, I'm Adam.</h1>
                     <Image 
                         src={imageSource}
                         width={250}

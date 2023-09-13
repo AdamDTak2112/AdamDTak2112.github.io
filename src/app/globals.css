@@ -2,6 +2,15 @@
 
 body {
   background-color: bisque;
+  display: flex;
+  min-height: 100vh;
+}
+
+.macro-container {
+ /* display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center; */
 }
 
 #brand {

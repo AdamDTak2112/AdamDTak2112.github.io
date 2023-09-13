@@ -1,0 +1,15 @@
+
+
+.brand-name {
+    align-self: flex-start;
+}
+
+.footerContainer {
+    background-color: tan;
+    height:200px;
+   min-width: 900px;
+    border: 25px solid black;
+    display: flex;
+    margin-top: auto;
+    
+}
