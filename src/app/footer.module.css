@@ -8,8 +8,8 @@
     background-color: tan;
     height:15vh;
    min-width: 100 vw;
-    border: 5px solid black;
+    border-top: 2px solid black;
     display: flex;
-    margin-top: -10px;
+    margin-top: 10px;
     
 }
