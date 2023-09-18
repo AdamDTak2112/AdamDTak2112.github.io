@@ -13,7 +13,7 @@ export default function HomePage() {
 
     return (
         <div className={montserrat.className} id="app">
-            <div className={styles.container}>
+            <div className="container mx-auto">
                 <div id={styles.salutation}>
                     <h1 id={styles.hello}>Hi, I'm Adam.</h1>
                     <Image 
