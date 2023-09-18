@@ -12,6 +12,7 @@
   border: 5px solid brown;
   margin-top: 25px;
   justify-content: center;
+  flex: 1 0 auto;
 }
 
 .whoAmI {
