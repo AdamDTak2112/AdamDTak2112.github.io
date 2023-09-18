@@ -9,7 +9,7 @@ import styles from './footer.module.css';
 export default function Footer(){
     return (
         <footer>
-            <div className="container mx-auto grid">
+            <div className="sticky bottom-0">
                 <Row>
                     <Col>
                     <div className={styles.footerContainer}>
