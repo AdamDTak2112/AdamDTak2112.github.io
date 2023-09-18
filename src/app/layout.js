@@ -15,7 +15,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       
       <body>
-        <div className="macro-container">
+        <div className="container mx-auto">
           <Header/>
           {children}
           <Footer/>
