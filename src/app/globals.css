@@ -1,37 +1,16 @@
-@import 'bootstrap/dist/css/bootstrap.min.css';
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+@import 'bootstrap/dist/css/bootstrap.min.css';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 
-body {
+
+body, html {
   background-color: bisque;
-  display: flex;
+  position:relative;
   height: 100%;
   
-}
-
-footer {
-  align-self: auto;
-}
-
-.macro-container {
-  position: relative;
-  min-height: 80vh;
-  display: flex;
-  flex-direction: column;
-}
-
-#brand {
-  font-weight: 400px;
-}
-
-
-
-#hello {
-  padding-bottom: 25px;
-  font-weight: bold;
 }
 
 #salutation {

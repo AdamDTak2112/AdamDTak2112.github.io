@@ -16,7 +16,7 @@ export default function HomePage() {
             
                 <div className="container mx-auto flex flex-col"id={styles.salutation}> 
                     <h1 className="text-3xl font-bold">Hi, I'm Adam.</h1>
-                    <div className="py-25">
+                    <div className="py-100">
                         <Image 
                             className='mx-auto my-25'
                             src={imageSource}
