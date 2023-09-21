@@ -8,9 +8,9 @@
 
 body, html {
   background-color: bisque;
-  position:relative;
+  position: relative;
   height: 100%;
-  
+  width: 100%;
 }
 
 #salutation {

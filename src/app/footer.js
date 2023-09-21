@@ -8,19 +8,10 @@ import styles from './footer.module.css';
 
 export default function Footer(){
     return (
-        <footer>
-            <div className="sticky bottom-0">
-                <Row>
-                    <Col>
-                    <div className={styles.footerContainer}>
-                        <h5 className='brand-name'>Tak Software</h5>
-                    </div>
-                    </Col>
-                </Row>
+        <footer className="w-full min-h-[10%]">
+            <div className="sticky bottom-0 columns-2 md:columns-3 h-full bg-amber-400 w-full">
+                    <h5 className='brand-name'>Tak Software</h5>
             </div>
-            
-            
-            
         </footer>
     );
 }

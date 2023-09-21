@@ -14,11 +14,11 @@ export default function HomePage() {
     return (
         
             
-                <div className="container mx-auto flex flex-col"id={styles.salutation}> 
+                <div className="container mx-auto flex flex-col justify-between"id={styles.salutation}> 
                     <h1 className="text-3xl font-bold">Hi, I'm Adam.</h1>
                     <div className="py-100">
                         <Image 
-                            className='mx-auto my-25'
+                            className='mx-auto'
                             src={imageSource}
                             width={250}
                             height={250}

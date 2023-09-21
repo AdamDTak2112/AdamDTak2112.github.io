@@ -14,7 +14,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       
-      <body>
+      <body className="w-screen">
         <div className="container flex flex-col justify-between h-screen mx-auto
        bg-amber-100 min-w-full"> 
           <Header/>
