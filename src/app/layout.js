@@ -16,7 +16,7 @@ export default function RootLayout({ children }) {
       
       <body className="w-screen">
         <div className="container flex flex-col justify-between h-screen mx-auto
-       bg-amber-100 min-w-full"> 
+       bg-[#dfd3b1] min-w-full"> 
           <Header/>
           {children}
           <Footer/>
