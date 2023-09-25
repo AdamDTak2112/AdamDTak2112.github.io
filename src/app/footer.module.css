@@ -1,0 +1,19 @@
+
+
+.brand-name {
+    align-self: flex-start;
+}
+
+.footerContainer {
+    background-color: tan;
+    height:10vh;
+   min-width: 100 vw;
+    border-top: 2px solid black;
+    display: flex;
+    margin-top: auto;
+    margin-bottom: auto;
+    flex-shrink: 0;
+    position: sticky;
+    bottom: 0;
+
+}

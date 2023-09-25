@@ -1,18 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 @import 'bootstrap/dist/css/bootstrap.min.css';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 
-body {
+body, html {
   background-color: bisque;
-}
-
-#brand {
-  font-weight: 400px;
-}
-
-
-
-#hello {
-  padding-bottom: 25px;
-  font-weight: bold;
+  position: relative;
+  height: 100%;
+  width: 100%;
 }
 
 #salutation {
