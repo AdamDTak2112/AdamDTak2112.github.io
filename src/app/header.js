@@ -8,7 +8,7 @@ import styles from './header.module.css';
 export default function Header(){
     return (
         <Navbar expand="lg">
-            <Container id={styles.navContainer}>
+            <Container className="mx-[5rem] flex justify-between border">
                 <Navbar.Brand id='brand' href='/'>Tak Software</Navbar.Brand>
                 <Nav>
                     <Nav.Item>
