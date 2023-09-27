@@ -3,9 +3,10 @@
 
 export default function Footer(){
     return (
-        <footer className="min-h-[10%] mx-[5rem]">
-            <div className="sticky bottom-0 columns-2 md:columns-3 h-full bg-[#e5ca8c] w-full">
-                    <h5 className='brand-name'>Tak Software</h5>
+        <footer className="min-h-[8%] mx-[5rem]">
+            <div className="sticky bottom-0 columns-2 h-full bg-[#e5ca8c] w-full justify-center flex items-center space-x-[25px]">
+                    <h5 className='text-md'>Tak Software</h5>
+                    <h6 className="text-sm">© Tak Software 2023</h6>
             </div>
         </footer>
     );
