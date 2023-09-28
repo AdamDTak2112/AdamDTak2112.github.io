@@ -14,9 +14,9 @@ export default function Header(){
                     <Nav.Item>
                         <Nav.Link href='/'>Home</Nav.Link>
                     </Nav.Item>
-                    <Nav.Item>
+                    {/* <Nav.Item>
                         <Nav.Link href='/about'>About Me</Nav.Link>
-                    </Nav.Item>
+                    </Nav.Item> */}
                 </Nav>
             </Container>
         </Navbar>
